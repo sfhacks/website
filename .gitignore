@@ -1,6 +1,13 @@
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
 # Example .gitignore files: https://github.com/github/gitignore
+
+# bower
 /bower_components/
+
+# node.js
 /node_modules/
+
+# os trash
+[Tt]humbs.db
 .DS_Store
