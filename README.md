@@ -10,14 +10,16 @@ We participate in a variety of events, such as...
   - Lockheed Martin CodeQuest
   - Stanford Proco
 - Hackathons
+  - Hshacks
   - Los Altos Hacks
   - OHacks
   - MenloHacks
   - MakeHacks
+  - TinoHacks
   - Local Hack Day
 
-Topics we cover at sfhacks:
+Topics we cover at sfhacks meetings:
 - Web development (HTML, CSS, etc.)
 - iOS development
 - Java
-- And more! We're always open to adopting the latest and greatest technologies
+- And more! We're always open to adopting the latest and greatest technologies.
